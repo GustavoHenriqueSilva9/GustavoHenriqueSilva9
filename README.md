@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gustavo — but you can call me Gu 🤙</h1>
+<h1 align="center">Hi, I'm Gustavo, but you can call me Gu 🤙</h1>
 <h3 align="center">Front-End Developer | Software Engineer | Always Learning</h3>
 
 <p align="center">
